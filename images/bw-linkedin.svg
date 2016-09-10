@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Icon"
+   x="0px"
+   y="0px"
+   viewBox="0 0 48 48"
+   enable-background="new 0 0 48 48"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="fc-webicon-linkedin.svg"><metadata
+   id="metadata4862"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4860" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="750"
+   id="namedview4858"
+   showgrid="false"
+   inkscape:zoom="9.8333333"
+   inkscape:cx="6.8644068"
+   inkscape:cy="24"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Icon" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="23.9995"
+   y1="0"
+   x2="23.9995"
+   y2="48.0005">
+	<stop
+   offset="0"
+   style="stop-color:#41B8D0"
+   id="stop4840" />
+	<stop
+   offset="1"
+   style="stop-color:#256FBB"
+   id="stop4842" />
+</linearGradient>
+<path
+   style="fill:#000000;fill-opacity:1"
+   d="M 6 0 C 2.687 0 0 2.687 0 6 L 0 42 C 0 45.313 2.687 48 6 48 L 42 48 C 45.313 48 48 45.313 48 42 L 48 6 C 48 2.687 45.313 0 42 0 L 6 0 z M 15.71875 11.625 C 17.32675 11.625 18.342 12.71225 18.375 14.15625 C 18.375 15.53425 17.3285 16.65625 15.6875 16.65625 C 14.1125 16.65625 13.06075 15.53425 13.09375 14.15625 C 13.06075 12.71225 14.11075 11.625 15.71875 11.625 z M 13.25 18.5 L 18.21875 18.5 L 18.21875 35.5625 L 13.25 35.5625 L 13.25 18.5 z M 22.15625 18.5 L 26.5625 18.5 L 26.65625 21.09375 L 26.75 21.09375 C 28.484 18.40475 30.12375 18.75 31.71875 18.75 C 34.99975 18.75 37.4395 20.7115 37.4375 25.4375 L 37.4375 35.5625 L 32.46875 35.5625 L 32.46875 26.0625 C 32.46875 23.9945 31.7425 22.59375 29.9375 22.59375 C 28.5595 22.59375 27.73425 23.54975 27.40625 24.46875 C 27.27525 24.79775 27.21875 25.25875 27.21875 25.71875 L 27.21875 35.5625 L 22.21875 35.5625 L 22.21875 24.03125 C 22.21875 22.02925 22.22125 19.911 22.15625 18.5 z "
+   id="path4844" />
+
+<g
+   id="g4852">
+	<g
+   id="g4854">
+		
+	</g>
+</g>
+</svg>

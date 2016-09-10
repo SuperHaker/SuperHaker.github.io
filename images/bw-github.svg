@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Icon"
+   x="0px"
+   y="0px"
+   viewBox="0 0 48 48"
+   enable-background="new 0 0 48 48"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="fc-webicon-github.svg"><metadata
+   id="metadata4154"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4152" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="750"
+   id="namedview4150"
+   showgrid="false"
+   inkscape:zoom="9.8333331"
+   inkscape:cx="17.56413"
+   inkscape:cy="24"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Icon" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="23.9995"
+   y1="0"
+   x2="23.9995"
+   y2="48.0005">
+	<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop4120" />
+	<stop
+   offset="1"
+   style="stop-color:#EAEAEA"
+   id="stop4122" />
+</linearGradient>
+<path
+   style="fill:#000000;fill-opacity:1;fill-rule:evenodd"
+   d="M 17.03125 23.8125 C 16.217035 23.850727 12.95475 24.35 12.96875 29.6875 C 12.97575 36.4425 25.21875 35.9375 25.21875 35.9375 C 25.21875 35.9375 36.37775 36.336 36.34375 30.25 C 36.34375 23.335 32.125 23.8125 32.125 23.8125 L 17.21875 23.8125 C 17.21875 23.8125 17.147566 23.807039 17.03125 23.8125 z M 18.78125 26.09375 C 20.03525 26.09375 21 27.532 21 29.375 C 21 31.219 20.03525 32.65625 18.78125 32.65625 C 17.52725 32.65625 16.53125 31.219 16.53125 29.375 C 16.53125 27.532 17.52725 26.09375 18.78125 26.09375 z M 30.78125 26.09375 C 32.03625 26.09375 33 27.532 33 29.375 C 33 31.219 32.03525 32.65625 30.78125 32.65625 C 29.52725 32.65625 28.53125 31.219 28.53125 29.375 C 28.53125 27.532 29.52725 26.09375 30.78125 26.09375 z "
+   id="path4130-3" /><path
+   style="fill:#000000;fill-opacity:1"
+   d="M 6 0 C 2.687 0 0 2.687 0 6 L 0 42 C 0 45.313 2.687 48 6 48 L 42 48 C 45.313 48 48 45.313 48 42 L 48 6 C 48 2.687 45.313 0 42 0 L 6 0 z M 12 11.96875 C 15.076 12.50275 18.125 14.5625 18.125 14.5625 C 25.393 13.9645 30.84375 14.5 30.84375 14.5 C 34.83875 12.211 36.6875 12.4375 36.6875 12.4375 C 37.0375 14.3945 37.03125 18.09375 37.03125 18.09375 C 38.12225 18.87675 40.446 21.1535 40.375 26.3125 C 40.304 31.4735 37.30225 37.75 25.28125 37.75 C 13.25925 37.75 9.6435 33.069 9.0625 27.375 C 8.4815 21.682 11.8125 18.1875 11.8125 18.1875 C 11.4805 15.2045 12 11.96875 12 11.96875 z "
+   id="path4124" />
+<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="none"
+   d="M27.695,29.811c0,0,1.519,5.062,5.974,4.05  c4.456-1.013,4.759-6.684,2.127-9.619C33.163,21.305,26.379,25.962,27.695,29.811z"
+   id="path4126" />
+
+
+<g
+   id="g4132"
+   style="fill:#ffffff;fill-opacity:1">
+	<g
+   id="g4134"
+   style="fill:#ffffff;fill-opacity:1">
+		
+		
+	</g>
+</g>
+<g
+   id="g4140"
+   style="fill:#ffffff;fill-opacity:1">
+	<g
+   id="g4142"
+   style="fill:#ffffff;fill-opacity:1">
+		
+		
+	</g>
+</g>
+
+</svg>

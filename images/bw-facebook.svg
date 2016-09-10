@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Icon"
+   x="0px"
+   y="0px"
+   viewBox="176 76 48 48"
+   enable-background="new 176 76 48 48"
+   xml:space="preserve"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="fc-webicon-facebook.svg"><metadata
+   id="metadata3789"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3787" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="750"
+   id="namedview3785"
+   showgrid="false"
+   inkscape:zoom="9.8333333"
+   inkscape:cx="14.135593"
+   inkscape:cy="24"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Icon" />
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="73.043"
+   y1="79.3979"
+   x2="73.043"
+   y2="82.1597"
+   gradientTransform="matrix(17.3612 0 0 17.3612 -1068.1182 -1302.4458)">
+	<stop
+   offset="0"
+   style="stop-color:#4B71B8"
+   id="stop3775" />
+	<stop
+   offset="1"
+   style="stop-color:#293F7E"
+   id="stop3777" />
+</linearGradient>
+<path
+   style="fill:#000000;fill-opacity:1"
+   d="M 6 0 C 2.687 0 0 2.69 0 6 L 0 41.96875 C 0 45.27575 2.687 47.9375 6 47.9375 L 23.53125 47.9375 L 23.53125 28.5625 L 19.15625 28.5625 L 19.15625 21.8125 L 23.375 21.8125 C 23.375 19.8205 23.393 18.06675 23.375 16.21875 C 23.375 10.91475 27.466 9.375 31.125 9.375 L 37.28125 9.375 L 37.28125 16.03125 C 36.76325 16.03425 34.75675 16.03125 33.71875 16.03125 C 33.58775 16.03125 31.40625 15.904 31.40625 18 C 31.41925 18.856 31.40625 21.8125 31.40625 21.8125 L 37.3125 21.8125 L 36.84375 28.4375 L 31.53125 28.4375 L 31.53125 47.9375 L 42 47.9375 C 45.312 47.9375 48 45.27675 48 41.96875 L 48 6 C 48 2.69 45.312 0 42 0 L 6 0 z "
+   transform="translate(176,76)"
+   id="path3779" />
+
+
+</svg>
