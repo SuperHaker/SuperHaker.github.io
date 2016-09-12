@@ -42,7 +42,8 @@ h3 {
 }
 h4 {
   margin: 10px 0px;
-  font-size: 18px;
+  font-size: 24px;
+  font-family:'Crete Round', sans-serif;
   line-height: 24px;
   font-weight: 700;
 }
@@ -142,7 +143,7 @@ p {
 }
 .profilepic {
   display: block;
-  width: 220px;
+  width: 240px;
   height: 170px;
   margin-right: auto;
   margin-bottom: 16px;
@@ -169,8 +170,8 @@ p {
   -o-transform: scale(1.05);
   transform: scale(1.05);
 }
-.icon.quora {
-  background-image: url(../images/quora.png);
+.icon.linkedin {
+  background-image: url(../images/bw-linkedin.svg);
 }
 .icon.github {
   margin-right: auto;
@@ -194,8 +195,8 @@ p {
 .icon.google {
   background-image: url(../images/bw-google.svg);
 }
-.icon.play {
-  background-image: url(../images/bw-play.svg);
+.icon.quora {
+  background-image: url(../images/quora.png);
 }
 .icon.facebook {
   background-image: url(../images/bw-facebook.svg);
@@ -314,7 +315,7 @@ p {
     width: 30px;
     height: 30px;
   }
-  .icon.quora {
+  .icon.linkedin {
     background-repeat: no-repeat;
   }
   .icon.github {
@@ -327,8 +328,9 @@ p {
   .icon.google {
     background-repeat: no-repeat;
   }
-  .icon.play {
+  .icon.quora {
     background-repeat: no-repeat;
+    background-attachment: scroll;
   }
   .icon.facebook {
     background-repeat: no-repeat;
