@@ -192,6 +192,9 @@ p {
   background-image: url(../images/bw-twitter.svg);
   
 }
+.icon.mail {
+  background-image: url(../images/mail.png);}
+
 .icon.google {
   background-image: url(../images/bw-google.svg);
 }
@@ -322,6 +325,10 @@ p {
     background-repeat: no-repeat;
   }
   .icon.twitter {
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+  .icon.mail {
     background-repeat: no-repeat;
     background-attachment: scroll;
   }
